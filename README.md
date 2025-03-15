@@ -1,0 +1,2 @@
+# boltTemplate
+Bolt Template AI
